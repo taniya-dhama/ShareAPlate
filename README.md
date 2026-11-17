@@ -1,4 +1,4 @@
-# FoodShare client (React + Vite)
+# ShareAPlate (React + Vite)
 
 1. Open this `client` folder in a terminal.
 2. `npm install`
